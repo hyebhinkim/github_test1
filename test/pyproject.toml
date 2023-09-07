@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "labelearth"
+version = "0.1.0"
+description = "labelearth3 Code for test automation"
+authors = ["hyebhin Kim <Bhin@si-anlaytics.ai>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+selenium = "4.9.1"
+webdriver-manager = {git = "https://github.com/SergeyPirogov/webdriver_manager.git", rev = "master"}
+Faker = "^10.0.0"
+pytest-xdist = "^2.5.0"
+pytest-rerunfailures = "^10.3"
+psycopg2-binary = "^2.9.3"
+paramiko = "^2.11.0"
+pylint = "^2.12.2"
+pre-commit = "^2.16.0"
+dbfread = "^2.0.7"
+scp = "^0.14.4"
+kubernetes = "^25.3.0"
+pytest-selenium = "4.0.1"
+pytest = "7.4.1"
+urllib3 = "^2.0.4"
+
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

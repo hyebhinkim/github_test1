@@ -1,0 +1,18 @@
+# 사용자 관리 > 사용자 추가
+USER_ADD_BTN = "//button[@data-test='userAddBtn']"
+USER_ADD_MODAL = "//*[contains(@class, '_modalWrapper')]"
+EMAIL = "//input[@data-test='emailInput']"
+EMAIL_CLEAR_BTN = "//span[contains(text(), '아이디')]/following::*[contains(@class, 'ant-input-clear-icon')][1]"
+PASSWORD = "//input[@data-test='passwordInput']"
+PASSWORD_CLEAR_BTN = "//span[contains(text(), '비밀번호')]/following::*[contains(@class, 'ant-input-clear-icon')]"
+PASSWORD_CONFIRM = "//input[@data-test='passwordCheckInput']"
+PASSWORD_CONFIRM_CLEAR_BTN = "//span[contains(text(), '비밀번호')]/following::*[contains(@class, 'ant-input-clear-icon')][2]"
+USER_NAME = "//input[@data-test='nameInput']"
+USER_NAME_CLEAR_BTN = "//span[contains(text(), '이름')]/following::*[contains(@class, 'ant-input-clear-icon')]"
+ROLE = "//span[text()='역할']/following::div[@class='ant-select-selector']//span[@class='ant-select-selection-placeholder']"
+ALL = "//*[@title='All']"
+MANAGER = "//*[@title='Manager']"
+ANNOTATOR = "//*[@title='Annotator']"
+REVIEWER = "//*[@title='Reviewer']"
+VIEWER = "//*[@title='Viewer']"
+CONFIRN_BTN ="//button[@data-test='okBtn']" #확인 버튼

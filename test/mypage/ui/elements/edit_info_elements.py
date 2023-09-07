@@ -1,0 +1,7 @@
+EDIT_INFO = "//*[contains(@class, '_tabs_')]//div[2]"
+EDIT_PASSWORD = "//button[contains(@class, 'ant-btn')]"
+CURRENT_PASSWORD = "//input[contains(@placeholder, '현재 비밀번호 입력')]"
+NEW_PASSWORD = "//input[contains(@placeholder, '새 비밀번호 입력')]"
+NEW_PASSWORD_CONFIRM = "//input[contains(@placeholder, '새 비밀번호 재입력')]"
+CANCLE_BTN = "//*[contains(@class, 'flex items-center justify-end mt-32px')]//button[1]"
+CHANGE_BTN = "//*[contains(@class, 'flex items-center justify-end mt-32px')]//button[2]"
