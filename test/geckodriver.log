@@ -1,0 +1,228 @@
+1694060339360	geckodriver	INFO	Listening on 127.0.0.1:52249
+1694060339428	geckodriver	INFO	Listening on 127.0.0.1:52251
+1694060339497	geckodriver	INFO	Listening on 127.0.0.1:52253
+1694060339566	geckodriver	INFO	Listening on 127.0.0.1:52259
+1694060339632	geckodriver	INFO	Listening on 127.0.0.1:52257
+1694060339687	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wp/c_pz296n4ws4z4k4n8pzk09r0000gn/T/rust_mozprofilejsEBZg"
+1694060339711	geckodriver	INFO	Listening on 127.0.0.1:52261
+1694060339714	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wp/c_pz296n4ws4z4k4n8pzk09r0000gn/T/rust_mozprofileXCdkFV"
+1694060339716	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wp/c_pz296n4ws4z4k4n8pzk09r0000gn/T/rust_mozprofileAujyGC"
+1694060339717	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wp/c_pz296n4ws4z4k4n8pzk09r0000gn/T/rust_mozprofileTi8C2W"
+1694060339717	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wp/c_pz296n4ws4z4k4n8pzk09r0000gn/T/rust_mozprofileurx2rh"
+1694060339808	geckodriver	INFO	Listening on 127.0.0.1:52263
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694060339894	geckodriver	INFO	Listening on 127.0.0.1:52278
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694060339974	geckodriver	INFO	Listening on 127.0.0.1:52283
+1694060340010	Marionette	INFO	Marionette enabled
+1694060340057	geckodriver	INFO	Listening on 127.0.0.1:52312
+1694060340081	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wp/c_pz296n4ws4z4k4n8pzk09r0000gn/T/rust_mozprofilecqpDxQ"
+1694060340106	Marionette	INFO	Marionette enabled
+1694060340108	Marionette	INFO	Marionette enabled
+1694060340112	Marionette	INFO	Marionette enabled
+1694060340117	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694060340237	Marionette	INFO	Listening on port 52326
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+Read port: 52326
+1694060340254	Marionette	INFO	Listening on port 52327
+1694060340257	Marionette	INFO	Listening on port 52328
+1694060340257	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wp/c_pz296n4ws4z4k4n8pzk09r0000gn/T/rust_mozprofileQr7u2z"
+1694060340258	Marionette	INFO	Listening on port 52329
+1694060340259	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wp/c_pz296n4ws4z4k4n8pzk09r0000gn/T/rust_mozprofiledZ5VUZ"
+WebDriver BiDi listening on ws://127.0.0.1:52250
+1694060340305	Marionette	INFO	Listening on port 52331
+Read port: 52329
+WebDriver BiDi listening on ws://127.0.0.1:52254
+Read port: 52331
+Read port: 52327
+Read port: 52328
+WebDriver BiDi listening on ws://127.0.0.1:52258
+1694060340365	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wp/c_pz296n4ws4z4k4n8pzk09r0000gn/T/rust_mozprofileLIwAbq"
+WebDriver BiDi listening on ws://127.0.0.1:52252
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694060340426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+WebDriver BiDi listening on ws://127.0.0.1:52260
+1694060340435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1694060340435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1694060340461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694060340469	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wp/c_pz296n4ws4z4k4n8pzk09r0000gn/T/rust_mozprofileGfNe0X"
+1694060340539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-09-07 13:19:00.608 plugin-container[49773:6453245] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:00.608 plugin-container[49773:6453245] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-07 13:19:00.609 plugin-container[49775:6453283] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:00.610 plugin-container[49775:6453283] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1694060340620	Marionette	INFO	Marionette enabled
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694060340746	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-09-07 13:19:00.771 plugin-container[49779:6453252] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:00.774 plugin-container[49779:6453252] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-07 13:19:00.775 plugin-container[49775:6453283] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:00.775 plugin-container[49775:6453283] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1694060340784	Marionette	INFO	Listening on port 52359
+2023-09-07 13:19:00.782 plugin-container[49770:6453193] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:00.785 plugin-container[49770:6453193] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-07 13:19:00.785 plugin-container[49775:6453292] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:00.785 plugin-container[49775:6453292] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1694060340811	Marionette	INFO	Marionette enabled
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Read port: 52359
+2023-09-07 13:19:00.894 plugin-container[49774:6453265] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:00.898 plugin-container[49774:6453265] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1694060340917	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+WebDriver BiDi listening on ws://127.0.0.1:52284
+1694060340981	Marionette	INFO	Listening on port 52362
+1694060340989	Marionette	INFO	Listening on port 52361
+Read port: 52362
+Read port: 52361
+2023-09-07 13:19:01.039 plugin-container[49779:6453252] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:01.039 plugin-container[49779:6453252] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1694060341054	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694060341063	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-09-07 13:19:01.108 plugin-container[49770:6453193] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:01.108 plugin-container[49770:6453193] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-07 13:19:01.109 plugin-container[49770:6454824] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:01.109 plugin-container[49770:6454824] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1694060341122	Marionette	INFO	Listening on port 52370
+WebDriver BiDi listening on ws://127.0.0.1:52264
+WebDriver BiDi listening on ws://127.0.0.1:52262
+2023-09-07 13:19:01.184 plugin-container[49773:6453245] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:01.184 plugin-container[49773:6453245] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-07 13:19:01.188 plugin-container[49779:6453258] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:01.188 plugin-container[49779:6453258] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-09-07 13:19:01.203 plugin-container[49773:6453236] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:01.203 plugin-container[49773:6453236] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 52370
+2023-09-07 13:19:01.203 plugin-container[49774:6453265] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:01.203 plugin-container[49774:6453265] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-07 13:19:01.207 plugin-container[49774:6454506] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:01.207 plugin-container[49774:6454506] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:52313
+1694060341259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1694060341262	Marionette	INFO	Listening on port 52375
+1694060341295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Read port: 52375
+WebDriver BiDi listening on ws://127.0.0.1:52279
+2023-09-07 13:19:01.325 plugin-container[49791:6454335] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:01.376 plugin-container[49791:6454335] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1694060341416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-09-07 13:19:01.473 plugin-container[49791:6454335] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:01.474 plugin-container[49791:6454335] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-07 13:19:01.474 plugin-container[49791:6454524] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:01.474 plugin-container[49791:6454524] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1694060341546	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-09-07 13:19:01.813 plugin-container[49797:6454679] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:01.882 plugin-container[49797:6454679] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-07 13:19:01.899 plugin-container[49803:6455024] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:01.925 plugin-container[49803:6455024] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-07 13:19:01.932 plugin-container[49801:6454817] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:01.938 plugin-container[49801:6454817] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-07 13:19:01.945 plugin-container[49797:6454679] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:01.945 plugin-container[49797:6454679] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-07 13:19:01.945 plugin-container[49797:6455592] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:01.945 plugin-container[49797:6455592] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-07 13:19:01.972 plugin-container[49803:6455024] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:01.972 plugin-container[49803:6455024] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-07 13:19:01.973 plugin-container[49801:6454817] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:01.973 plugin-container[49801:6454817] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-07 13:19:01.973 plugin-container[49803:6455856] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:01.973 plugin-container[49803:6455856] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-07 13:19:01.973 plugin-container[49801:6454807] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:01.973 plugin-container[49801:6454807] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-07 13:19:01.972 plugin-container[49800:6454591] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:01.974 plugin-container[49800:6454591] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-07 13:19:01.979 plugin-container[49800:6454591] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:01.979 plugin-container[49800:6454591] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-07 13:19:01.980 plugin-container[49800:6454681] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:01.980 plugin-container[49800:6454681] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:52258/devtools/browser/e1248c3d-0b15-4138-8fd6-9561094145ee
+DevTools listening on ws://127.0.0.1:52254/devtools/browser/e3ed72d9-68b1-4d1c-b60e-f2497bb15134
+DevTools listening on ws://127.0.0.1:52260/devtools/browser/b03001d7-4598-4a0f-b4d0-02ab8070331c
+DevTools listening on ws://127.0.0.1:52252/devtools/browser/e7e6eb60-cdbd-4364-be35-dc4d757cf1b4
+DevTools listening on ws://127.0.0.1:52250/devtools/browser/62263e53-a989-476a-9e2e-8ea8d8b0fb4b
+DevTools listening on ws://127.0.0.1:52284/devtools/browser/5535ca68-557f-4f43-afba-224662827e6d
+DevTools listening on ws://127.0.0.1:52262/devtools/browser/45f96020-cb72-47f3-a8fe-e9a44c81f6d4
+DevTools listening on ws://127.0.0.1:52264/devtools/browser/652f282d-e74e-4808-8280-6db48203f70c
+DevTools listening on ws://127.0.0.1:52279/devtools/browser/6fa6e4fe-94d8-4ea5-ae88-f83c441cc609
+DevTools listening on ws://127.0.0.1:52313/devtools/browser/607a0a8b-6385-487e-b861-60dda83855bc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://test-le.sia-service.kr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://test-le.sia-service.kr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://test-le.sia-service.kr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://test-le.sia-service.kr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://test-le.sia-service.kr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://test-le.sia-service.kr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://test-le.sia-service.kr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://test-le.sia-service.kr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://test-le.sia-service.kr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://test-le.sia-service.kr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://test-le.sia-service.kr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://test-le.sia-service.kr."
+1694060348619	geckodriver	INFO	Listening on 127.0.0.1:52712
+1694060349132	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wp/c_pz296n4ws4z4k4n8pzk09r0000gn/T/rust_mozprofilehPnHKB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694060349587	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694060349849	Marionette	INFO	Listening on port 52755
+Read port: 52755
+WebDriver BiDi listening on ws://127.0.0.1:52713
+1694060350257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-09-07 13:19:10.352 plugin-container[50258:6460225] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:10.391 plugin-container[50258:6460225] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-07 13:19:10.533 plugin-container[50258:6460225] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:10.542 plugin-container[50258:6460225] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-07 13:19:10.543 plugin-container[50258:6460507] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-07 13:19:10.543 plugin-container[50258:6460507] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:52713/devtools/browser/ae1d1f02-4582-4aff-8317-b3c5e651a5b1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://test-le.sia-service.kr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://test-le.sia-service.kr."
+1694060393331	Marionette	INFO	Stopped listening on port 52329
+1694060394598	Marionette	INFO	Stopped listening on port 52326
+1694060395826	Marionette	INFO	Stopped listening on port 52328
+1694060396922	Marionette	INFO	Stopped listening on port 52327
+1694060398163	Marionette	INFO	Stopped listening on port 52331
+1694060399408	Marionette	INFO	Stopped listening on port 52359
+1694060400574	Marionette	INFO	Stopped listening on port 52362
+1694060401796	Marionette	INFO	Stopped listening on port 52361
+1694060402980	Marionette	INFO	Stopped listening on port 52370
+1694060404337	Marionette	INFO	Stopped listening on port 52375
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://test-le.sia-service.kr/assets/index-cc5819bb.js, line 48: Script terminated by timeout at:
+UB@https://test-le.sia-service.kr/assets/index-cc5819bb.js:48:17229
+
+1694060405875	Marionette	INFO	Stopped listening on port 52755
